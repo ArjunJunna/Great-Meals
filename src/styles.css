@@ -24,3 +24,8 @@ ul {
 li:hover {
   opacity: 0.3;
 }
+.para {
+  font-size: 0.9rem;
+  color: rgba(236, 239, 243, 0.404);
+  padding: 1rem 0rem;
+}
